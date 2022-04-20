@@ -1,11 +1,8 @@
 <p align="center">
-  <a href="https://hunterdrakar.github.io/instagram-dio/">
-    <img 
-         src="https://github.com/HunterDrakar/instagram-dio/blob/master/img/capa.png" 
-         alt="Interface Instagram" 
-    />
+  <a href="https://hunterdrakar.github.io/instagram-dio/" target="_blank">
+    <img src="https://github.com/HunterDrakar/instagram-dio/blob/main/img/capa.png" alt="Interface Instagram"> 
   </a>
-  <br />
+  <br/>
   
   <h1>Portuguese</h1>
 
