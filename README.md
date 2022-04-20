@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://HunterDrakar.github.io/instagram-dio/">
+  <a href="https://hunterdrakar.github.io/instagram-dio/">
     <img 
          src="https://github.com/HunterDrakar/instagram-dio/blob/master/img/capa.png" 
          alt="Interface Instagram" 
