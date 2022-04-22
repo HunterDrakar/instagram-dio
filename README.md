@@ -4,20 +4,21 @@
          src="https://github.com/HunterDrakar/instagram-dio/blob/master/img/capa.png" 
          alt="Interface Instagram" 
     />
+    <img src="https://github.com/HunterDrakar/instagram-dio/blob/main/img/capa-profile.png" alt="Profile Instagram">
   </a>
   <br />
   
   <h1>Portuguese</h1>
 
-  Neste projeto eu recriei a interface do instagram colocando uma temática de um jogo da riot games chamado valorant.
+  Neste projeto eu recriei a interface de login e a página de perfil do instagram colocando uma temática de um jogo da riot games chamado valorant.
 
-  Neste exercicio foram utilizadas as linguagens HTML e CSS.
+  Neste exercicio foram utilizadas HTML, CSS e Bootstrap.
 
   <h1>English</h1>
 
-  In this project I recreated the instagram interface using the theme of the Valorant game
+  In this project I recreated the login interface and the instagram profile page using the theme of the Valorant game.
 
-  In this exercise HTML and CSS were used.
+  In this exercise HTML, CSS and Bootstrap were used.
 
 </p>
 
