@@ -5,8 +5,10 @@
          alt="Interface Instagram" 
     />
     <img src="https://github.com/HunterDrakar/instagram-dio/blob/main/img/capa-profile.png" alt="Profile Instagram">
+  <a href="https://hunterdrakar.github.io/instagram-dio/" target="_blank">
+    <img src="https://github.com/HunterDrakar/instagram-dio/blob/main/img/capa.png" alt="Interface Instagram"> 
   </a>
-  <br />
+  <br/>
   
   <h1>Portuguese</h1>
 
