@@ -107,6 +107,10 @@
     font-weight: 600;
 }
 
+.navbar-brand {
+    cursor: pointer;
+}
+
 .card {
     border: 0px solid rgba(0, 0, 0, .125) !important;
     border-radius: .0rem !important;
